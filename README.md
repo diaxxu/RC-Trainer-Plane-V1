@@ -2,7 +2,7 @@
 ✈️ DIY 3-channel RC plane built from scratch using foamboard, aluminum spar, and basic electronics. Designed for stable flight with elevator and rudder control, no ailerons. Includes custom wingtip fins to simulate dihedral and detailed CG balancing. Fully tested and flight-ready.
 
 ## 📐 Specs
-- **Wingspan:** ~95 cm  
+- **Wingspan:** 95 cm  
 - **Chord:** 30 cm  
 - **Fuselage Length:** 76 cm  
 - **Wing:** Flat, no dihedral  
